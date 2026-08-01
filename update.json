@@ -1,7 +1,7 @@
 {
   "version": "9.5.1",
   "build": 1100,
-  "apkUrl": "",
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.1-beta.1/ultimateBetaV1100.apk",
   "apkUrls": {},
   "apkBuilds": {},
   "changelog": "Version beta initiale",
