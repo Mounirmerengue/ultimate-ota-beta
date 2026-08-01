@@ -1,0 +1,9 @@
+{
+  "version": "9.5.1",
+  "build": 1100,
+  "apkUrl": "",
+  "apkUrls": {},
+  "apkBuilds": {},
+  "changelog": "Version beta initiale",
+  "mandatory": false
+}
