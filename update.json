@@ -1,9 +1,9 @@
 {
-  "version": "9.5.1",
-  "build": 1100,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.1-beta.1/ultimateBetaV1100.apk",
+  "version": "9.5.2-beta.1",
+  "build": 1101,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.1-beta.1/ultimateBetaV1101.apk",
   "apkUrls": {},
   "apkBuilds": {},
-  "changelog": "Version beta initiale",
+  "changelog": "• Changement de chaîne et lancement vidéo plus rapides\n• Correction des erreurs Overlay et GlobalKey\n• Accueil plus stable avec des rails portant le même nom",
   "mandatory": false
 }
