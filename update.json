@@ -1,9 +1,17 @@
 {
-  "version": "9.5.2-beta.1",
-  "build": 1101,
-  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.1-beta.1/ultimateBetaV1101.apk",
-  "apkUrls": {},
-  "apkBuilds": {},
-  "changelog": "• Changement de chaine et lancement video plus rapides\n• Correction des erreurs Overlay et GlobalKey\n• Accueil plus stable avec des rails portant le meme nom",
+  "version": "9.5.5-beta.1",
+  "build": 2113,
+  "apkUrl": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.5-beta.1/ultimateBetaV2113.apk",
+  "apkUrls": {
+    "arm64-v8a": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.5-beta.1/ultimateBetaV2113-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.5-beta.1/ultimateBetaV2113-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Mounirmerengue/ultimate-ota-beta/releases/download/v9.5.5-beta.1/ultimateBetaV2113-x86_64.apk"
+  },
+  "apkBuilds": {
+    "arm64-v8a": 4113,
+    "armeabi-v7a": 3113,
+    "x86_64": 6113
+  },
+  "changelog": "• Accès direct à l’accueil avec le dernier profil utilisé\n• Multivue plus clair, plus réactif et meilleure gestion du son\n• Message explicite lorsque l’abonnement ne permet qu’une connexion\n• Nouveau bouton Donner mon avis dans les paramètres\n• Corrections de stabilité et d’affichage",
   "mandatory": false
 }
